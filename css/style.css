@@ -1,0 +1,25 @@
+body {
+	background: #e4ebe9 url(../images/mzm.jpg);
+  background-repeat: no-repeat;
+	color: #444;
+	font-family: "PT Sans Narrow", Arial, sans-serif;
+	font-size: 13px;
+	font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+    min-width: 320px;
+}
+
+p.info {
+	font-family: "Volkhov", serif;
+	font-style: italic;
+	color: #997f5a;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	display: block;
+	clear: both;
+	text-align: center;
+	width: 100%;
+	max-wdith: 440px;
+	margin: 0 auto;
+}
